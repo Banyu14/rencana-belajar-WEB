@@ -1,5 +1,7 @@
 RENCANA BELAJAR WEB DEVELOPMENT TAHUN 2024
 
 - Belajar HTML
+    * Detail
+      ^ tag HTML
 - Belajar CSS
 - Belajar PHP
