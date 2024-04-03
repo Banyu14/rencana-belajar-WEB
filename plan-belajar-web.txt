@@ -4,6 +4,11 @@ Tuliskan request teman-teman disini
       ^ tag HTML
       ^ tabel HTML
       ^ link HTML
+      ^ Parangraf HTML
+      ^ Gambar HTML
+      ^ Warna HTML
+      ^ Border HTML
 - Javascript
       ^ JS dasar
       ^ JS6
+      ^ Membuat game dengan JS
