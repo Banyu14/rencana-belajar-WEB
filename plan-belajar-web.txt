@@ -9,4 +9,5 @@ Tuliskan request teman-teman disini
       ^ JS dasar
       ^ JS6
       ^ Latihan dengan JS
+- Belajar CSS
 
