@@ -7,3 +7,5 @@ Tuliskan request teman-teman disini
 - Javascript
       ^ JS dasar
       ^ JS6
+- Belajar CSS
+      
