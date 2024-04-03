@@ -13,3 +13,6 @@ Tuliskan request teman-teman disini
       ^ JS6
       ^ Membuat game dengan JS
       ^ Membuat game suit jawa dengan JS
+- Belajar CSS
+
+
