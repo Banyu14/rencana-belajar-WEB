@@ -4,10 +4,15 @@ Tuliskan request teman-teman disini
       ^ tag HTML
       ^ tabel HTML
       ^ link HTML
-      ^ Belajar Form HTML
+      ^ Parangraf HTML
+      ^ Gambar HTML
+      ^ Warna HTML
+      ^ Border HTML
 - Javascript
       ^ JS dasar
       ^ JS6
-      ^ Latihan dengan JS
+      ^ Membuat game dengan JS
+      ^ Membuat game suit jawa dengan JS
 - Belajar CSS
+
 
