@@ -2,5 +2,7 @@ Tuliskan request teman-teman disini
 
 - HTML
       ^ tag HTML
+      ^ tabel HTML
+      ^ link HTML
 - Javascript
       ^ JS dasar
