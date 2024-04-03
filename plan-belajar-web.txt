@@ -6,3 +6,4 @@ Tuliskan request teman-teman disini
       ^ link HTML
 - Javascript
       ^ JS dasar
+      ^ JS6
